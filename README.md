@@ -10,5 +10,5 @@ Yksinkertainen tähtikuvio, ei rekursiota
 ### tahdet 
 Yksinkertainen rekursio, turtle oliona
 
-### tahdet2
+### tahdet_b
 Sama kuin tahdet mutta ei rekursiota 
