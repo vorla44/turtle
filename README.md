@@ -6,3 +6,6 @@ Miten turlella tehdään kuva, ei rekursiota
 
 ### perusteet - tahti
 Yksinkertainen tähtikuvio, ei rekursiota
+
+### tahdet 
+Yksinkertainen rekursio, turtle oliona
