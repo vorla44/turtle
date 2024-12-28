@@ -35,3 +35,6 @@ värillinen kuvio
 
 ### sierpinsky 4
 nopea
+
+### sierpinsky 6
+Kysytään koko ja taso
