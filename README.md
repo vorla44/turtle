@@ -29,3 +29,6 @@ yksinkertainen sovellus
 
 ### sierpinsky0
 samoin
+
+### sierpinsky 1
+värillinen kuvio
