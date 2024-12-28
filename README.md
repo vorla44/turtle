@@ -17,3 +17,6 @@ Sama kuin tahdet mutta ei rekursiota
 
 ### puu1
 puna vihreä yksinkertainen puu rekursiolla
+
+### puu2
+tehdään eka ikkuna, kuvio sama kuin puu1
