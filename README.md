@@ -45,3 +45,5 @@ koodin tulkinta - moniste
 
 ### peace
 kuvion teko, ei rekursiota
+
+### kukkavoimaa
