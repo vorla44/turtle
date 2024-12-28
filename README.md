@@ -9,3 +9,6 @@ Yksinkertainen tähtikuvio, ei rekursiota
 
 ### tahdet 
 Yksinkertainen rekursio, turtle oliona
+
+### tahdet2
+Sama kuin tahdet mutta ei rekursiota 
