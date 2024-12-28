@@ -14,3 +14,6 @@ Yksinkertainen rekursio, turtle oliona
 Sama kuin tahdet mutta ei rekursiota 
 
 ### simple tree
+
+### puu1
+puna vihreä yksinkertainen puu rekursiolla
