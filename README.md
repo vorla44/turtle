@@ -26,3 +26,6 @@ summa rekursiolla
 
 ### sierpinsky
 yksinkertainen sovellus
+
+### sierpinsky0
+samoin
