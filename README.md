@@ -60,3 +60,6 @@ kuvaus ja F--F selostus
 
 ### koch 3
 funktiona koch
+
+### koch 4
+samantyylinen
