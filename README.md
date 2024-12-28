@@ -42,3 +42,6 @@ Kysytään koko ja taso
 
 ### peano
 koodin tulkinta - moniste
+
+### peace
+kuvion teko, ei rekursiota
