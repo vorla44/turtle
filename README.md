@@ -74,3 +74,6 @@ jotain häikkää
 
 ### keyohjaus
 ohjataan näppäimillä
+
+### mouseohjaus
+piirretään hiirellä
