@@ -54,3 +54,6 @@ perusjuttuja
 
 ### neliot
 aivan perusjuttu
+
+### koch2
+kuvaus ja F--F selostus
