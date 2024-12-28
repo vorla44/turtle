@@ -12,3 +12,5 @@ Yksinkertainen rekursio, turtle oliona
 
 ### tahdet_b
 Sama kuin tahdet mutta ei rekursiota 
+
+### simple tree
