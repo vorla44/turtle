@@ -57,3 +57,6 @@ aivan perusjuttu
 
 ### koch2
 kuvaus ja F--F selostus
+
+### koch 3
+funktiona koch
