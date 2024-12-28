@@ -71,3 +71,6 @@ kuvaus
 
 ### canvas
 jotain häikkää
+
+### keyohjaus
+ohjataan näppäimillä
