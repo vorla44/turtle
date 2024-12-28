@@ -23,3 +23,6 @@ tehdään eka ikkuna, kuvio sama kuin puu1
 
 ### summa
 summa rekursiolla
+
+### sierpinsky
+yksinkertainen sovellus
