@@ -38,3 +38,7 @@ nopea
 
 ### sierpinsky 6
 Kysytään koko ja taso
+
+
+### peano
+koodin tulkinta - moniste
