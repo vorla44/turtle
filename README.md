@@ -47,3 +47,7 @@ koodin tulkinta - moniste
 kuvion teko, ei rekursiota
 
 ### kukkavoimaa
+kukka palloilla, perus
+
+### spiraali
+perusjuttuja
