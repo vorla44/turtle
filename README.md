@@ -32,3 +32,6 @@ samoin
 
 ### sierpinsky 1
 värillinen kuvio
+
+### sierpinsky 4
+nopea
